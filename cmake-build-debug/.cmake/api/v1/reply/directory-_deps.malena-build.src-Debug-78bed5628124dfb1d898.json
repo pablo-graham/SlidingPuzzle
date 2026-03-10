@@ -1,0 +1,69 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"cmake-build-debug/_deps/malena-src/src/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 61,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 70,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"_deps/malena-build/src/libMalena.a"
+			],
+			"targetId" : "Malena::@47d51e73071552cab570",
+			"targetIndex" : 1,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "lib/cmake/Malena",
+			"exportName" : "Malena-targets",
+			"exportTargets" : 
+			[
+				{
+					"id" : "Malena::@47d51e73071552cab570",
+					"index" : 1
+				}
+			],
+			"paths" : 
+			[
+				"_deps/malena-build/src/CMakeFiles/Export/f749d188d23be1453117f36dda201f65/Malena-targets.cmake"
+			],
+			"type" : "export"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "_deps/malena-build/src",
+		"source" : "cmake-build-debug/_deps/malena-src/src"
+	}
+}

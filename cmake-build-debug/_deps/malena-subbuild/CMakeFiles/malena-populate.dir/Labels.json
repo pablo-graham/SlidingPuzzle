@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/pabloruiz/CLionProjects/SlidingPuzzle/cmake-build-debug/_deps/malena-subbuild/CMakeFiles/malena-populate"
+		},
+		{
+			"file" : "/Users/pabloruiz/CLionProjects/SlidingPuzzle/cmake-build-debug/_deps/malena-subbuild/CMakeFiles/malena-populate.rule"
+		},
+		{
+			"file" : "/Users/pabloruiz/CLionProjects/SlidingPuzzle/cmake-build-debug/_deps/malena-subbuild/CMakeFiles/malena-populate-complete.rule"
+		},
+		{
+			"file" : "/Users/pabloruiz/CLionProjects/SlidingPuzzle/cmake-build-debug/_deps/malena-subbuild/malena-populate-prefix/src/malena-populate-stamp/malena-populate-build.rule"
+		},
+		{
+			"file" : "/Users/pabloruiz/CLionProjects/SlidingPuzzle/cmake-build-debug/_deps/malena-subbuild/malena-populate-prefix/src/malena-populate-stamp/malena-populate-configure.rule"
+		},
+		{
+			"file" : "/Users/pabloruiz/CLionProjects/SlidingPuzzle/cmake-build-debug/_deps/malena-subbuild/malena-populate-prefix/src/malena-populate-stamp/malena-populate-download.rule"
+		},
+		{
+			"file" : "/Users/pabloruiz/CLionProjects/SlidingPuzzle/cmake-build-debug/_deps/malena-subbuild/malena-populate-prefix/src/malena-populate-stamp/malena-populate-install.rule"
+		},
+		{
+			"file" : "/Users/pabloruiz/CLionProjects/SlidingPuzzle/cmake-build-debug/_deps/malena-subbuild/malena-populate-prefix/src/malena-populate-stamp/malena-populate-mkdir.rule"
+		},
+		{
+			"file" : "/Users/pabloruiz/CLionProjects/SlidingPuzzle/cmake-build-debug/_deps/malena-subbuild/malena-populate-prefix/src/malena-populate-stamp/malena-populate-patch.rule"
+		},
+		{
+			"file" : "/Users/pabloruiz/CLionProjects/SlidingPuzzle/cmake-build-debug/_deps/malena-subbuild/malena-populate-prefix/src/malena-populate-stamp/malena-populate-test.rule"
+		},
+		{
+			"file" : "/Users/pabloruiz/CLionProjects/SlidingPuzzle/cmake-build-debug/_deps/malena-subbuild/malena-populate-prefix/src/malena-populate-stamp/malena-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"malena-populate"
+		],
+		"name" : "malena-populate"
+	}
+}

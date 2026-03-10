@@ -1,0 +1,3 @@
+/Users/pabloruiz/CLionProjects/SlidingPuzzle/cmake-build-debug/_deps/vorbis-subbuild/CMakeFiles/vorbis-populate.dir
+/Users/pabloruiz/CLionProjects/SlidingPuzzle/cmake-build-debug/_deps/vorbis-subbuild/CMakeFiles/edit_cache.dir
+/Users/pabloruiz/CLionProjects/SlidingPuzzle/cmake-build-debug/_deps/vorbis-subbuild/CMakeFiles/rebuild_cache.dir
