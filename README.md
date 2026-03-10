@@ -160,7 +160,7 @@ For a 3×3 puzzle, this remains computationally manageable.
 
 Initial State:
 
-![Initial State](./assets/SolvingDate.png)
+![Initial State](./assets/SolvingState.png)
 
 Solved State:
 
