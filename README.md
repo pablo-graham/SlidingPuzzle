@@ -1,5 +1,7 @@
 # Sliding Puzzle Solver (A* Algorithm)
 
+### to run: ./cmake-build-debug/MalenaTest
+
 ## Overview
 
 **Sliding Puzzle Solver** is a 3×3 sliding puzzle game that uses the **A*** (A-Star) search algorithm to automatically solve the puzzle.
@@ -18,7 +20,7 @@ The result is a visual demonstration of informed search using heuristic function
 
 ## Demo
 
-(picture)
+![Sliding Puzzle Demo](./assets/sliding-puzzle-demo.gif)
 
 ---
 
@@ -128,31 +130,28 @@ For a 3×3 puzzle, this remains computationally manageable.
 
 ---
 
-## Project Structure (Example)
+## Project Structure
 
 ```
-/components
-  PuzzleBoard
-  Tile
-  Solver
+/State
+  State.h
 
-/utils
-  aStar.js
-  heuristics.js
-  stateHelpers.js
+/A_Star
+  A_Star.h
 
-/public
-  uploadedImages
+/Game
+  /doggy pics
+  Game.h
 ```
 
 ---
 
 ## Technologies Used
 
-* JavaScript / TypeScript
+* C++
 * A* Search Algorithm
 * Heuristic Search (Manhattan Distance)
-* HTML Canvas or DOM-based rendering
+* MALENA (SFML)
 * Image slicing logic
 
 ---
@@ -161,11 +160,11 @@ For a 3×3 puzzle, this remains computationally manageable.
 
 Initial State:
 
-(picture)
+![Initial State](./assets/SolvingDate.png)
 
 Solved State:
 
-(picture)
+![Solved State](./assets/StartingState.png)
 
 ---
 
